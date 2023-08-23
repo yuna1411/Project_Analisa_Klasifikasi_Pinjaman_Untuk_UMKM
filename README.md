@@ -1,1 +1,3 @@
-# Project_Analisa_Klasifikasi_Pinjaman_Untuk_UMKM
+# Project Analisa Klasifikasi Pinjaman Untuk UMKM
+
+Using R Language
